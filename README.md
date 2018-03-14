@@ -1,3 +1,3 @@
 # Draw
 高仿王者荣耀好友列表炫光 
-liuyouth.github.io/blog/list/x00001.html
+[博客地址](http://ioll.ml/blog/list/x00001.html)
